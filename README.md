@@ -29,17 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![./screenshots/Screenshot_1.png](./screenshots/Screenshot_1.png))
-![./screenshots/Screenshot_2.png](./screenshots/Screenshot_2.png))
+![./screenshots/Screenshot_1.png](./screenshots/Screenshot_1.png)
+![./screenshots/Screenshot_2.png](./screenshots/Screenshot_2.png)
 
 
 ### Links
 
 - Solution URL: [https://shroomsky.github.io/product-card-component/](https://shroomsky.github.io/product-card-component/)
-
-
-
-
 
 ### Built with
 
